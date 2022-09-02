@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**csihyeon9/csihyeon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What's Up! 하이염
 
 Here are some ideas to get you started:
 
@@ -14,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Dillinger
-## _The Last Markdown Editor, Ever_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
