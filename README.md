@@ -1,13 +1,22 @@
+__________________________________________________
 
 ### This is me now.
+__________________________________________________
 
-Here are some ideas to get you started:
+Here are some ideas to get you know about me:
 
 - 🔭 I’m currently working on : X
 - 🌱 I’m currently learning : Web hacking
 - 👯 I’m looking to collaborate on : anyone..?
 - 📫 How to reach me: discord -> "csihyeon9#8059"
 - ⚡ Fun fact: I'm boy. not man, B.O.Y
+__________________________________________________
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
