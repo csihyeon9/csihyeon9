@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm boy. not man, B.O.Y
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-#44A833
 
