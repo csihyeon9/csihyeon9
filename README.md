@@ -12,6 +12,9 @@ Here are some ideas to get you know about me:
 - ⚡ Fun fact: I'm boy. not man, B.O.Y
 __________________________________________________
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csihyeon9ID&show_icons=true&theme=radical)
+
+__________________________________________________
 | Plugin | README |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
