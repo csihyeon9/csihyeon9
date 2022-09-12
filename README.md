@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 ### This is me now.
 
 Here are some ideas to get you started:
@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: discord -> "csihyeon9#8059"
 - ⚡ Fun fact: I'm boy. not man, B.O.Y
 
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+#44A833
 
