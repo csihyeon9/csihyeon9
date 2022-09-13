@@ -15,6 +15,3 @@ __________________________________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csihyeon9&show_icons=true&theme=radical)
 
 __________________________________________________
-| Plugin | README |
-| ------ | ------ |
-| GitHub | csihyeon9 |
