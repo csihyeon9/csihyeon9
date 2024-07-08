@@ -1,5 +1,4 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csihyeon9)](https://github.com/csihyeon9/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csihyeon9)](https://github.com/csihyeon9/github-readme-stats)
 
 
 
