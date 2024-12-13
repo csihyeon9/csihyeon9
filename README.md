@@ -49,11 +49,3 @@ I aim to develop technology solutions that are safer and more accessible for eve
 
 - **KU INISW 5th - 아이디어 경진대회**  
   [장려상] - 소보 (너의 **소**리가 **보**여 - 인공지능 수어 번역기)
-
-## Follow Me 🌐
-
-[LinkedIn]([https://linkedin.com](http://linkedin.com/in/sihyun-cha-2036a831b)) | [Portfolio]([https://yourportfolio.com](https://www.notion.so/csihyeon/SIHYUN-CHA-TRISTAN-CHA-150649355dd880779abfe3620609ce27))  
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=#ca64f4&height=200&section=footer&text=Thank%20You!&fontSize=40&fontAlign=50&fontColor=ffffff)
-
-**Updated on [2024.12.02]**
